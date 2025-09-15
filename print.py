@@ -1,1 +1,1 @@
-print("Hello DevOps from Sultan")
+print("Hello DevOps from Sultan 🚀")

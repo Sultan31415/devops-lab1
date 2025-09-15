@@ -1,1 +1,1 @@
-pirnt("Hello Devops")
+print("Hello DevOps from Sultan")
